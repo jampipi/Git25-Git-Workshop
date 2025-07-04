@@ -1,3 +1,6 @@
 Hello world! 
 bannana
 apples
+mangos
+mangos 2
+peachs
